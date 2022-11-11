@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="334 159 812 682" width="812" height="682">
+  <defs>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <clipPath id="outer_stroke_clip_path">
+      <path d="M 334 159 L 1146 159 L 1146 841 L 334 841 Z M 885.9495 817.7983 L 885.9495 817.7983 C 880.4266 817.7983 875.9495 822.2755 875.9495 827.7983 L 875.9495 829.7983 C 875.9495 835.3212 880.4266 839.7983 885.9495 839.7983 L 1067.5745 839.7983 C 1073.0973 839.7983 1077.5745 835.3212 1077.5745 829.7983 L 1077.5745 827.7983 C 1077.5745 822.2755 1073.0973 817.7983 1067.5745 817.7983 Z"/>
+    </clipPath>
+    <font-face font-family="PingFang SC" font-size="12" panose-1="2 11 4 0 0 0 0 0 0 0" units-per-em="1000" underline-position="-150" underline-thickness="58" slope="0" x-height="600" cap-height="860" ascent="1060.0021" descent="-340.0007" font-weight="400">
+      <font-face-src>
+        <font-face-name name="PingFangSC-Regular"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Helvetica Neue" font-size="12" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="PingFang SC" font-size="21" panose-1="2 11 4 0 0 0 0 0 0 0" units-per-em="1000" underline-position="-150" underline-thickness="58" slope="0" x-height="600" cap-height="860" ascent="1060.0021" descent="-340.0007" font-weight="400">
+      <font-face-src>
+        <font-face-name name="PingFangSC-Regular"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="PingFang SC" font-size="16" panose-1="2 11 4 0 0 0 0 0 0 0" units-per-em="1000" underline-position="-150" underline-thickness="58" slope="0" x-height="600" cap-height="860" ascent="1060.0021" descent="-340.0007" font-weight="400">
+      <font-face-src>
+        <font-face-name name="PingFangSC-Regular"/>
+      </font-face-src>
+    </font-face>
+    <clipPath id="outer_stroke_clip_path_2">
+      <path d="M 334 159 L 1146 159 L 1146 841 L 334 841 Z M 419.875 710.916 L 419.875 710.916 C 414.35215 710.916 409.875 715.3931 409.875 720.916 L 409.875 740.416 C 409.875 745.9388 414.35215 750.416 419.875 750.416 L 588.625 750.416 C 594.14785 750.416 598.625 745.9388 598.625 740.416 L 598.625 720.916 C 598.625 715.3931 594.14785 710.916 588.625 710.916 Z"/>
+    </clipPath>
+    <clipPath id="outer_stroke_clip_path_3">
+      <path d="M 334 159 L 1146 159 L 1146 841 L 334 841 Z M 651.625 711.7563 L 651.625 711.7563 C 646.10215 711.7563 641.625 716.23346 641.625 721.7563 L 641.625 741.2563 C 641.625 746.77915 646.10215 751.2563 651.625 751.2563 L 820.375 751.2563 C 825.8978 751.2563 830.375 746.77915 830.375 741.2563 L 830.375 721.7563 C 830.375 716.23346 825.8978 711.7563 820.375 711.7563 Z"/>
+    </clipPath>
+    <clipPath id="outer_stroke_clip_path_4">
+      <path d="M 334 159 L 1146 159 L 1146 841 L 334 841 Z M 883.375 710.916 L 883.375 710.916 C 877.8522 710.916 873.375 715.3931 873.375 720.916 L 873.375 740.416 C 873.375 745.9388 877.8522 750.416 883.375 750.416 L 1052.125 750.416 C 1057.6478 750.416 1062.125 745.9388 1062.125 740.416 L 1062.125 720.916 C 1062.125 715.3931 1057.6478 710.916 1052.125 710.916 Z"/>
+    </clipPath>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.9 
+    <dc:date>2018-11-11 06:58:14 +0000</dc:date>
+  </metadata>
+  <g id="版面___1" stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none" fill-opacity="1">
+    <title>WebRTC Architecture</title>
+    <g id="版面___1: 图层 1">
+      <title>图层 1</title>
+      <g id="Group_59">
+        <g id="Group_58">
+          <g id="Group_56">
+            <g id="Group_55">
+              <g id="Group_48">
+                <title>Browser+图例</title>
+                <g id="Group_46">
+                  <title>Browser</title>
+                  <g id="Graphic_2">
+                    <path d="M 345 264.5 L 1135 264.5 C 1140.5228 264.5 1145 268.97715 1145 274.5 L 1145 785 C 1145 790.52285 1140.5228 795 1135 795 L 345 795 C 339.47715 795 335 790.52285 335 785 L 335 274.5 C 335 268.97715 339.47715 264.5 345 264.5 Z" fill="white"/>
+                    <path d="M 345 264.5 L 1135 264.5 C 1140.5228 264.5 1145 268.97715 1145 274.5 L 1145 785 C 1145 790.52285 1140.5228 795 1135 795 L 345 795 C 339.47715 795 335 790.52285 335 785 L 335 274.5 C 335 268.97715 339.47715 264.5 345 264.5 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+                  </g>
+                  <g id="Graphic_8">
+                    <path d="M 554.5 238 L 925.5 238 C 936.5457 238 945.5 246.9543 945.5 258 L 945.5 268.5 C 945.5 279.5457 936.5457 288.5 925.5 288.5 L 554.5 288.5 C 543.4543 288.5 534.5 279.5457 534.5 268.5 L 534.5 258 C 534.5 246.9543 543.4543 238 554.5 238 Z" fill="#38495b"/>
+                    <text transform="translate(539.5 254.026)" fill="white">
+                      <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="white" x="91.012" y="15">Web API ( Edited by W3c WG )</tspan>
+                    </text>
+                  </g>
+                  <g id="Graphic_34">
+                    <text transform="translate(348.5 279.276)" fill="black">
+                      <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".384" y="15">Browser</tspan>
+                    </text>
+                  </g>
+                </g>
+                <g id="Graphic_38">
+                  <path d="M 885.9495 817.7983 L 1067.5745 817.7983 C 1073.0973 817.7983 1077.5745 822.2755 1077.5745 827.7983 L 1077.5745 829.7983 C 1077.5745 835.3212 1073.0973 839.7983 1067.5745 839.7983 L 885.9495 839.7983 C 880.4266 839.7983 875.9495 835.3212 875.9495 829.7983 L 875.9495 827.7983 C 875.9495 822.2755 880.4266 817.7983 885.9495 817.7983 Z" fill="#cb6164"/>
+                  <path d="M 885.9495 817.7983 L 1067.5745 817.7983 C 1073.0973 817.7983 1077.5745 822.2755 1077.5745 827.7983 L 1077.5745 829.7983 C 1077.5745 835.3212 1073.0973 839.7983 1067.5745 839.7983 L 885.9495 839.7983 C 880.4266 839.7983 875.9495 835.3212 875.9495 829.7983 L 875.9495 827.7983 C 875.9495 822.2755 880.4266 817.7983 885.9495 817.7983 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="2" clip-path="url(#outer_stroke_clip_path)"/>
+                  <text transform="translate(880.9495 820.2983)" fill="white">
+                    <tspan font-family="PingFang SC" font-size="12" font-weight="400" fill="white" x="5.0745" y="13">Overrideable by Browser makers</tspan>
+                  </text>
+                </g>
+                <g id="Graphic_39">
+                  <path d="M 648.2247 817.7983 L 816.9747 817.7983 C 822.4976 817.7983 826.9747 822.2755 826.9747 827.7983 L 826.9747 829.7983 C 826.9747 835.3212 822.4976 839.7983 816.9747 839.7983 L 648.2247 839.7983 C 642.7019 839.7983 638.2247 835.3212 638.2247 829.7983 L 638.2247 827.7983 C 638.2247 822.2755 642.7019 817.7983 648.2247 817.7983 Z" fill="#cb6164"/>
+                  <text transform="translate(643.2247 820.2983)" fill="white">
+                    <tspan font-family="PingFang SC" font-size="12" font-weight="400" fill="white" x="23.165" y="13">API for Browser makers</tspan>
+                  </text>
+                </g>
+                <g id="Graphic_41">
+                  <path d="M 411.5 817.7983 L 578.25 817.7983 C 584.3251 817.7983 589.25 822.7232 589.25 828.7983 L 589.25 828.7983 C 589.25 834.8735 584.3251 839.7983 578.25 839.7983 L 411.5 839.7983 C 405.42487 839.7983 400.5 834.8735 400.5 828.7983 L 400.5 828.7983 C 400.5 822.7232 405.42487 817.7983 411.5 817.7983 Z" fill="#38495b"/>
+                  <text transform="translate(405.5 821.6303)" fill="white">
+                    <tspan font-family="Helvetica Neue" font-size="12" font-weight="400" fill="white" x="26.273" y="11">API for Web developers</tspan>
+                  </text>
+                </g>
+              </g>
+              <g id="Graphic_51">
+                <path d="M 636.2467 159 L 576.75334 159 L 576.75334 215.652 L 561.5 215.652 L 606.5 245.45477 L 651.5 215.652 L 636.2467 215.652 Z" fill="#485f78"/>
+                <clipPath id="clip_path">
+                  <path d="M 72.97405 1.7726138 L 13.480724 1.7726138 L 13.480724 58.424616 L -1.7726138 58.424616 L 43.227386 88.22739 L 88.22739 58.424616 L 72.97405 58.424616 Z" fill="#485f78"/>
+                </clipPath>
+                <text clip-path="url(#clip_path)" transform="translate(634.172 164) rotate(90)" fill="white">
+                  <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="white" x="22.235386" y="15">Web</tspan>
+                  <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="white" x="22.675386" y="33.448">APP</tspan>
+                  <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="white" x="29.331386" y="51.895996">#1</tspan>
+                </text>
+              </g>
+              <g id="Graphic_52">
+                <path d="M 737.4461 159 L 677.9528 159 L 677.9528 215.652 L 662.69945 215.652 L 707.69945 245.45477 L 752.69945 215.652 L 737.4461 215.652 Z" fill="#485f78"/>
+                <clipPath id="clip_path_2">
+                  <path d="M 72.97405 1.7726138 L 13.480724 1.7726138 L 13.480724 58.424616 L -1.7726138 58.424616 L 43.227386 88.22739 L 88.22739 58.424616 L 72.97405 58.424616 Z" fill="#485f78"/>
+                </clipPath>
+                <text clip-path="url(#clip_path_2)" transform="translate(735.37145 164) rotate(90)" fill="white">
+                  <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="white" x="22.235386" y="15">Web</tspan>
+                  <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="white" x="22.675386" y="33.448">APP</tspan>
+                  <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="white" x="29.331386" y="51.895996">#2</tspan>
+                </text>
+              </g>
+              <g id="Graphic_53">
+                <path d="M 901.2467 159 L 841.7533 159 L 841.7533 215.652 L 826.5 215.652 L 871.5 245.45477 L 916.5 215.652 L 901.2467 215.652 Z" fill="#485f78"/>
+                <clipPath id="clip_path_3">
+                  <path d="M 72.97405 1.7726138 L 13.480724 1.7726138 L 13.480724 58.424616 L -1.7726138 58.424616 L 43.227386 88.22739 L 88.22739 58.424616 L 72.97405 58.424616 Z" fill="#485f78"/>
+                </clipPath>
+                <text clip-path="url(#clip_path_3)" transform="translate(899.172 164) rotate(90)" fill="white">
+                  <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="white" x="22.235386" y="15">Web</tspan>
+                  <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="white" x="22.675386" y="33.448">APP</tspan>
+                  <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="white" x="29.331386" y="51.895996">#3</tspan>
+                </text>
+              </g>
+              <g id="Graphic_54">
+                <text transform="translate(773.0997 176.5)" fill="black">
+                  <tspan font-family="PingFang SC" font-size="21" font-weight="400" fill="black" x=".456" y="22">…..</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="Group_42">
+              <title>webRTC</title>
+              <g id="Graphic_12">
+                <path d="M 380 340.5 L 1100 340.5 C 1105.5228 340.5 1110 344.97715 1110 350.5 L 1110 769.5 C 1110 775.02285 1105.5228 779.5 1100 779.5 L 380 779.5 C 374.47715 779.5 370 775.02285 370 769.5 L 370 350.5 C 370 344.97715 374.47715 340.5 380 340.5 Z" fill="white"/>
+                <path d="M 380 340.5 L 1100 340.5 C 1105.5228 340.5 1110 344.97715 1110 350.5 L 1110 769.5 C 1110 775.02285 1105.5228 779.5 1100 779.5 L 380 779.5 C 374.47715 779.5 370 775.02285 370 769.5 L 370 350.5 C 370 344.97715 374.47715 340.5 380 340.5 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+              </g>
+              <g id="Graphic_6">
+                <path d="M 545.5 327.5 L 918.75 327.5 C 924.2728 327.5 928.75 331.97715 928.75 337.5 L 928.75 350.5 C 928.75 356.02285 924.2728 360.5 918.75 360.5 L 545.5 360.5 C 539.97715 360.5 535.5 356.02285 535.5 350.5 L 535.5 337.5 C 535.5 331.97715 539.97715 327.5 545.5 327.5 Z" fill="#cb6164"/>
+                <text transform="translate(540.5 333)" fill="white">
+                  <tspan font-family="PingFang SC" font-size="16" font-weight="400" fill="white" x="58.505" y="17">WebRTC C++ API (PeerConnection)</tspan>
+                </text>
+              </g>
+              <g id="Graphic_33">
+                <text transform="translate(385 355.776)" fill="black">
+                  <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".304" y="15">WebRTC</tspan>
+                </text>
+              </g>
+            </g>
+          </g>
+          <g id="Group_57">
+            <g id="Graphic_4">
+              <path d="M 553.375 387 L 926.625 387 C 932.1478 387 936.625 391.47715 936.625 397 L 936.625 410 C 936.625 415.52285 932.1478 420 926.625 420 L 553.375 420 C 547.85215 420 543.375 415.52285 543.375 410 L 543.375 397 C 543.375 391.47715 547.85215 387 553.375 387 Z" fill="#61b586"/>
+              <text transform="translate(548.375 392.5)" fill="white">
+                <tspan font-family="PingFang SC" font-size="16" font-weight="400" fill="white" x="1.737" y="17">Session management / Abstract signaling(Session)</tspan>
+              </text>
+            </g>
+            <g id="Group_43">
+              <title>群组</title>
+              <g id="Graphic_35">
+                <path d="M 419.875 710.916 L 588.625 710.916 C 594.14785 710.916 598.625 715.3931 598.625 720.916 L 598.625 740.416 C 598.625 745.9388 594.14785 750.416 588.625 750.416 L 419.875 750.416 C 414.35215 750.416 409.875 745.9388 409.875 740.416 L 409.875 720.916 C 409.875 715.3931 414.35215 710.916 419.875 710.916 Z" fill="#cb6164"/>
+                <path d="M 419.875 710.916 L 588.625 710.916 C 594.14785 710.916 598.625 715.3931 598.625 720.916 L 598.625 740.416 C 598.625 745.9388 594.14785 750.416 588.625 750.416 L 419.875 750.416 C 414.35215 750.416 409.875 745.9388 409.875 740.416 L 409.875 720.916 C 409.875 715.3931 414.35215 710.916 419.875 710.916 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="2" clip-path="url(#outer_stroke_clip_path_2)"/>
+                <text transform="translate(414.875 719.666)" fill="white">
+                  <tspan font-family="PingFang SC" font-size="16" font-weight="400" fill="white" x="5.519" y="17">Audio Capture/Render</tspan>
+                </text>
+              </g>
+              <g id="Group_26">
+                <title>Video Engine</title>
+                <g id="Graphic_22">
+                  <path d="M 410.5 445 L 598 445 C 603.52285 445 608 449.47715 608 455 L 608 679 C 608 684.52285 603.52285 689 598 689 L 410.5 689 C 404.97715 689 400.5 684.52285 400.5 679 L 400.5 455 C 400.5 449.47715 404.97715 445 410.5 445 Z" fill="#ccc"/>
+                </g>
+                <g id="Graphic_21">
+                  <path d="M 428.5 507.5 L 580 507.5 C 585.52285 507.5 590 511.97715 590 517.5 L 590 541.5 C 590 547.02285 585.52285 551.5 580 551.5 L 428.5 551.5 C 422.97715 551.5 418.5 547.02285 418.5 541.5 L 418.5 517.5 C 418.5 511.97715 422.97715 507.5 428.5 507.5 Z" fill="#61b586"/>
+                  <text transform="translate(423.5 518.5)" fill="white">
+                    <tspan font-family="PingFang SC" font-size="16" font-weight="400" fill="white" x="39.022" y="17">VP8 Codec</tspan>
+                  </text>
+                </g>
+                <g id="Graphic_20">
+                  <path d="M 428.5 564 L 580 564 C 585.52285 564 590 568.47715 590 574 L 590 598 C 590 603.52285 585.52285 608 580 608 L 428.5 608 C 422.97715 608 418.5 603.52285 418.5 598 L 418.5 574 C 418.5 568.47715 422.97715 564 428.5 564 Z" fill="#61b586"/>
+                  <text transform="translate(423.5 575)" fill="white">
+                    <tspan font-family="PingFang SC" font-size="16" font-weight="400" fill="white" x="13.206" y="17">Video Jitter buffer</tspan>
+                  </text>
+                </g>
+                <g id="Graphic_19">
+                  <path d="M 428.5 620.5 L 580 620.5 C 585.52285 620.5 590 624.97715 590 630.5 L 590 654.5 C 590 660.02285 585.52285 664.5 580 664.5 L 428.5 664.5 C 422.97715 664.5 418.5 660.02285 418.5 654.5 L 418.5 630.5 C 418.5 624.97715 422.97715 620.5 428.5 620.5 Z" fill="#61b586"/>
+                  <text transform="translate(423.5 631.5)" fill="white">
+                    <tspan font-family="PingFang SC" font-size="16" font-weight="400" fill="white" x="1.958" y="17">Image enhancements</tspan>
+                  </text>
+                </g>
+                <g id="Graphic_23">
+                  <text transform="translate(423.5 458.776)" fill="black">
+                    <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".176" y="15">Video Engine</tspan>
+                  </text>
+                </g>
+              </g>
+            </g>
+            <g id="Group_44">
+              <g id="Graphic_36">
+                <path d="M 651.625 711.7563 L 820.375 711.7563 C 825.8978 711.7563 830.375 716.23346 830.375 721.7563 L 830.375 741.2563 C 830.375 746.77915 825.8978 751.2563 820.375 751.2563 L 651.625 751.2563 C 646.10215 751.2563 641.625 746.77915 641.625 741.2563 L 641.625 721.7563 C 641.625 716.23346 646.10215 711.7563 651.625 711.7563 Z" fill="#cb6164"/>
+                <path d="M 651.625 711.7563 L 820.375 711.7563 C 825.8978 711.7563 830.375 716.23346 830.375 721.7563 L 830.375 741.2563 C 830.375 746.77915 825.8978 751.2563 820.375 751.2563 L 651.625 751.2563 C 646.10215 751.2563 641.625 746.77915 641.625 741.2563 L 641.625 721.7563 C 641.625 716.23346 646.10215 711.7563 651.625 711.7563 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="2" clip-path="url(#outer_stroke_clip_path_3)"/>
+                <text transform="translate(646.625 720.5063)" fill="white">
+                  <tspan font-family="PingFang SC" font-size="16" font-weight="400" fill="white" x="36.071" y="17">Video Capture</tspan>
+                </text>
+              </g>
+              <g id="Group_25">
+                <title>Voice Engine</title>
+                <g id="Graphic_16">
+                  <path d="M 646.25 445 L 833.75 445 C 839.2728 445 843.75 449.47715 843.75 455 L 843.75 679 C 843.75 684.52285 839.2728 689 833.75 689 L 646.25 689 C 640.72715 689 636.25 684.52285 636.25 679 L 636.25 455 C 636.25 449.47715 640.72715 445 646.25 445 Z" fill="#ccc"/>
+                </g>
+                <g id="Graphic_13">
+                  <path d="M 664.25 507.5 L 815.75 507.5 C 821.2728 507.5 825.75 511.97715 825.75 517.5 L 825.75 541.5 C 825.75 547.02285 821.2728 551.5 815.75 551.5 L 664.25 551.5 C 658.72715 551.5 654.25 547.02285 654.25 541.5 L 654.25 517.5 C 654.25 511.97715 658.72715 507.5 664.25 507.5 Z" fill="#61b586"/>
+                  <text transform="translate(659.25 518.5)" fill="white">
+                    <tspan font-family="PingFang SC" font-size="16" font-weight="400" fill="white" x="8.566" y="17">iSAC / iLBC Codec</tspan>
+                  </text>
+                </g>
+                <g id="Graphic_14">
+                  <path d="M 664.25 564 L 815.75 564 C 821.2728 564 825.75 568.47715 825.75 574 L 825.75 598 C 825.75 603.52285 821.2728 608 815.75 608 L 664.25 608 C 658.72715 608 654.25 603.52285 654.25 598 L 654.25 574 C 654.25 568.47715 658.72715 564 664.25 564 Z" fill="#61b586"/>
+                  <text transform="translate(659.25 575)" fill="white">
+                    <tspan font-family="PingFang SC" font-size="16" font-weight="400" fill="white" x="21.158" y="17">NetEQ for voice</tspan>
+                  </text>
+                </g>
+                <g id="Graphic_15">
+                  <path d="M 664.25 620.5 L 815.75 620.5 C 821.2728 620.5 825.75 624.97715 825.75 630.5 L 825.75 654.5 C 825.75 660.02285 821.2728 664.5 815.75 664.5 L 664.25 664.5 C 658.72715 664.5 654.25 660.02285 654.25 654.5 L 654.25 630.5 C 654.25 624.97715 658.72715 620.5 664.25 620.5 Z" fill="#61b586"/>
+                  <text transform="translate(659.25 620.5)" fill="white">
+                    <tspan font-family="PingFang SC" font-size="16" font-weight="400" fill="white" x="22.654" y="17">Echo Canceler/</tspan>
+                    <tspan font-family="PingFang SC" font-size="16" font-weight="400" fill="white" x="19.678" y="39">Noise Reduction</tspan>
+                  </text>
+                </g>
+                <g id="Graphic_24">
+                  <text transform="translate(659.75 459.276)" fill="black">
+                    <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".42" y="15">Voice Engine</tspan>
+                  </text>
+                </g>
+              </g>
+            </g>
+            <g id="Group_45">
+              <g id="Graphic_37">
+                <path d="M 883.375 710.916 L 1052.125 710.916 C 1057.6478 710.916 1062.125 715.3931 1062.125 720.916 L 1062.125 740.416 C 1062.125 745.9388 1057.6478 750.416 1052.125 750.416 L 883.375 750.416 C 877.8522 750.416 873.375 745.9388 873.375 740.416 L 873.375 720.916 C 873.375 715.3931 877.8522 710.916 883.375 710.916 Z" fill="#cb6164"/>
+                <path d="M 883.375 710.916 L 1052.125 710.916 C 1057.6478 710.916 1062.125 715.3931 1062.125 720.916 L 1062.125 740.416 C 1062.125 745.9388 1057.6478 750.416 1052.125 750.416 L 883.375 750.416 C 877.8522 750.416 873.375 745.9388 873.375 740.416 L 873.375 720.916 C 873.375 715.3931 877.8522 710.916 883.375 710.916 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="2" clip-path="url(#outer_stroke_clip_path_4)"/>
+                <text transform="translate(878.375 719.666)" fill="white">
+                  <tspan font-family="PingFang SC" font-size="16" font-weight="400" fill="white" x="43.767" y="17">Network I/O</tspan>
+                </text>
+              </g>
+              <g id="Group_27">
+                <title>Transport</title>
+                <g id="Graphic_32">
+                  <path d="M 882 445 L 1069.5 445 C 1075.0228 445 1079.5 449.47715 1079.5 455 L 1079.5 679 C 1079.5 684.52285 1075.0228 689 1069.5 689 L 882 689 C 876.4772 689 872 684.52285 872 679 L 872 455 C 872 449.47715 876.4772 445 882 445 Z" fill="#ccc"/>
+                </g>
+                <g id="Graphic_31">
+                  <path d="M 900 507.5 L 1051.5 507.5 C 1057.0228 507.5 1061.5 511.97715 1061.5 517.5 L 1061.5 541.5 C 1061.5 547.02285 1057.0228 551.5 1051.5 551.5 L 900 551.5 C 894.4772 551.5 890 547.02285 890 541.5 L 890 517.5 C 890 511.97715 894.4772 507.5 900 507.5 Z" fill="#61b586"/>
+                  <text transform="translate(895 518.5)" fill="white">
+                    <tspan font-family="PingFang SC" font-size="16" font-weight="400" fill="white" x="29.822" y="17">SRTP/SRTCP</tspan>
+                  </text>
+                </g>
+                <g id="Graphic_30">
+                  <path d="M 900 564 L 1051.5 564 C 1057.0228 564 1061.5 568.47715 1061.5 574 L 1061.5 598 C 1061.5 603.52285 1057.0228 608 1051.5 608 L 900 608 C 894.4772 608 890 603.52285 890 598 L 890 574 C 890 568.47715 894.4772 564 900 564 Z" fill="#61b586"/>
+                  <text transform="translate(895 575)" fill="white">
+                    <tspan font-family="PingFang SC" font-size="16" font-weight="400" fill="white" x="36.118" y="17">Multiplexing</tspan>
+                  </text>
+                </g>
+                <g id="Graphic_29">
+                  <path d="M 900 620.5 L 1051.5 620.5 C 1057.0228 620.5 1061.5 624.97715 1061.5 630.5 L 1061.5 654.5 C 1061.5 660.02285 1057.0228 664.5 1051.5 664.5 L 900 664.5 C 894.4772 664.5 890 660.02285 890 654.5 L 890 630.5 C 890 624.97715 894.4772 620.5 900 620.5 Z" fill="#61b586"/>
+                  <text transform="translate(895 620.5)" fill="white">
+                    <tspan font-family="PingFang SC" font-size="16" font-weight="400" fill="white" x="65.678" y="17">P2P</tspan>
+                    <tspan font-family="PingFang SC" font-size="16" font-weight="400" fill="white" x="14.958" y="39">STUN+TURN+ICE</tspan>
+                  </text>
+                </g>
+                <g id="Graphic_28">
+                  <text transform="translate(895 462.276)" fill="black">
+                    <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".216" y="15">Transport</tspan>
+                  </text>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="Graphic_50">
+          <path d="M 722.6999 287.98014 L 742.6996 288.08485 L 742.56765 313.28503 L 752.5675 313.3374 L 732.4997 326.2325 L 712.5681 313.12797 L 722.5679 313.18032 Z" fill="#38495b"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
